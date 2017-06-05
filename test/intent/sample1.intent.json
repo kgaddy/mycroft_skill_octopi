@@ -1,0 +1,7 @@
+{
+  "utterance": "printer status",
+  "intent_type": "PrinterStatusIntent",
+  "intent": {
+    "PrinterStatusCommand": "printer status"
+  }
+}
